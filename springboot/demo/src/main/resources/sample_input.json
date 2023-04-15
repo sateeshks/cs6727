@@ -1,0 +1,16 @@
+{
+  "name": "Sateesh",
+  "email": "maddog@xxx.com",
+  "domain": "google.com",
+  "lowerCase": "true",
+  "upperCase": "true",
+  "digits": "true",
+  "symbols": "true",
+  "length": "16",
+  "revision": "1",
+  "exclude": "AZz0"
+
+}
+
+# Redis start docker run --name some-redis -p6379:6379 -d redis redis-server --appendonly yes
+#https://developer.okta.com/blog/2022/04/26/webauthn-java#spring-jpa-data-layer-overview
